@@ -1,0 +1,20 @@
+{
+  "name": "snowflake-agent-factory",
+  "version": "0.1.0",
+  "description": "Snowflake Agent Factory (Phase 1) — Cortex Code plugin for constitution-governed spec authoring of Cortex Agents, Semantic Views, Cortex Search, and Cortex Analyst.",
+  "author": { "name": "Anblicks" },
+  "license": "MIT",
+  "keywords": [
+    "snowflake",
+    "cortex-code",
+    "cortex-agents",
+    "cortex-search",
+    "semantic-view",
+    "agent-factory",
+    "constitution"
+  ],
+  "skills": "./skills",
+  "agents": "./agents",
+  "commands": "./commands",
+  "hooks": "./hooks/hooks.json"
+}
